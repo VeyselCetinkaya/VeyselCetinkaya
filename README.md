@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeyselCetinkaya
 - 👀 I’m interested in software developing
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ckveysel@gmail.com
 
